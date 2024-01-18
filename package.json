@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@swup/overlay-theme": "^2.0.0",
+    "transition-style": "^0.1.3"
+  }
+}

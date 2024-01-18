@@ -1,0 +1,570 @@
+reqID: 2
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Danish
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Danish
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Danish
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Danish
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Danish
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Danish
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Meor
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Meor
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Meor
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 1
+Query: SELECT * FROM request WHERE reqID = 1
+Fetched Data: Array
+(
+    [reqID] => 1
+    [trackNO] => SPX89272038
+    [recevNM] => Iqbal Mustaqim
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => 0154873567
+)
+
+reqID: 1
+Query: SELECT * FROM request WHERE reqID = 1
+Fetched Data: Array
+(
+    [reqID] => 1
+    [trackNO] => SPX89272038
+    [recevNM] => Iqbal Mustaqim
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => 0154873567
+)
+
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Meor
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Meor
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Meor
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 0
+Query: SELECT * FROM request WHERE reqID = 0
+Fetched Data: 
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: Array
+(
+    [reqID] => 2
+    [trackNO] => b
+    [recevNM] => Meor
+    [recevRN] => 204
+    [recevCol] => Alpha
+    [reqPN] => +60 17-685 1843
+)
+
+reqID: 123456
+Query: SELECT * FROM request WHERE reqID = 123456
+Fetched Data: 
+reqID: 3
+Query: SELECT * FROM request WHERE reqID = 3
+Fetched Data: 
+reqID: 6
+Query: SELECT * FROM request WHERE reqID = 6
+Fetched Data: Array
+(
+    [reqID] => 6
+    [trackNO] => 123456
+    [recevNM] => Faheem
+    [recevRN] => 0
+    [recevCol] => Alpha
+    [reqPN] => 0124664455
+)
+
+reqID: 0
+Query: SELECT * FROM request WHERE reqID = 0
+Fetched Data: 
+reqID: 2
+Query: SELECT * FROM request WHERE reqID = 2
+Fetched Data: 
+reqID: 111
+Query: SELECT * FROM request WHERE reqID = 111
+Fetched Data: 
+reqID: 4
+Query: SELECT * FROM request WHERE reqID = 4
+Fetched Data: 
+reqID: 59
+Query: SELECT * FROM request WHERE reqID = 59
+Fetched Data: Array
+(
+    [reqID] => 59
+    [trackNO] => 222
+    [recevNM] => izz
+    [recevRN] => 2
+    [recevCol] => Alpha
+    [reqPN] => 123
+    [isDelivered] => 0
+    [sesID] => 
+)
+
+reqID: 59
+Query: SELECT * FROM request WHERE reqID = 59
+Fetched Data: Array
+(
+    [reqID] => 59
+    [trackNO] => 222
+    [recevNM] => izz
+    [recevRN] => 2
+    [recevCol] => Alpha
+    [reqPN] => 123
+    [isDelivered] => 0
+    [sesID] => 
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 0
+    [sesID] => 16
+)
+
+reqID: 10
+Query: SELECT * FROM request WHERE reqID = 10
+Fetched Data: Array
+(
+    [reqID] => 10
+    [trackNO] => GHI789
+    [recevNM] => Bob Johnson
+    [recevRN] => 303
+    [recevCol] => Beta
+    [reqPN] => 555-9012
+    [isDelivered] => 0
+    [sesID] => 19
+)
+
+reqID: 10
+Query: SELECT * FROM request WHERE reqID = 10
+Fetched Data: Array
+(
+    [reqID] => 10
+    [trackNO] => GHI789
+    [recevNM] => Bob Johnson
+    [recevRN] => 303
+    [recevCol] => Beta
+    [reqPN] => 555-9012
+    [isDelivered] => 0
+    [sesID] => 19
+)
+
+reqID: 10
+Query: SELECT * FROM request WHERE reqID = 10
+Fetched Data: Array
+(
+    [reqID] => 10
+    [trackNO] => GHI789
+    [recevNM] => Bob Johnson
+    [recevRN] => 303
+    [recevCol] => Beta
+    [reqPN] => 555-9012
+    [isDelivered] => 0
+    [sesID] => 19
+)
+
+reqID: 10
+Query: SELECT * FROM request WHERE reqID = 10
+Fetched Data: Array
+(
+    [reqID] => 10
+    [trackNO] => GHI789
+    [recevNM] => Bob Johnson
+    [recevRN] => 303
+    [recevCol] => Beta
+    [reqPN] => 555-9012
+    [isDelivered] => 0
+    [sesID] => 19
+)
+
+reqID: 10
+Query: SELECT * FROM request WHERE reqID = 10
+Fetched Data: Array
+(
+    [reqID] => 10
+    [trackNO] => GHI789
+    [recevNM] => Bob Johnson
+    [recevRN] => 304
+    [recevCol] => Beta
+    [reqPN] => 555-9012
+    [isDelivered] => 0
+    [sesID] => 19
+)
+
+reqID: 10
+Query: SELECT * FROM request WHERE reqID = 10
+Fetched Data: Array
+(
+    [reqID] => 10
+    [trackNO] => GHI789
+    [recevNM] => Bob Johnson
+    [recevRN] => 304
+    [recevCol] => Beta
+    [reqPN] => 555-9012
+    [isDelivered] => 0
+    [sesID] => 19
+)
+
+reqID: 10
+Query: SELECT * FROM request WHERE reqID = 10
+Fetched Data: Array
+(
+    [reqID] => 10
+    [trackNO] => GHI789
+    [recevNM] => Bob Johnson
+    [recevRN] => 304
+    [recevCol] => Beta
+    [reqPN] => 555-9012
+    [isDelivered] => 0
+    [sesID] => 19
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 0
+    [sesID] => 16
+)
+
+reqID: 10
+Query: SELECT * FROM request WHERE reqID = 10
+Fetched Data: Array
+(
+    [reqID] => 10
+    [trackNO] => GHI789
+    [recevNM] => Bob Johnson
+    [recevRN] => 304
+    [recevCol] => Beta
+    [reqPN] => 555-9012
+    [isDelivered] => 0
+    [sesID] => 19
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 0
+    [sesID] => 16
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 0
+    [sesID] => 16
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 0
+    [sesID] => 16
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 0
+    [sesID] => 16
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 0
+    [sesID] => 16
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 0
+    [sesID] => 16
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 0
+    [sesID] => 1
+)
+
+reqID: 49
+Query: SELECT * FROM request WHERE reqID = 49
+Fetched Data: Array
+(
+    [reqID] => 49
+    [trackNO] => TUV456
+    [recevNM] => Elena Ward
+    [recevRN] => 4242
+    [recevCol] => Gamma
+    [reqPN] => 555-9900
+    [isDelivered] => 0
+    [sesID] => 3
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 0
+    [sesID] => 1
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+MySQL Error: No database selected
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+MySQL Error: No database selected
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 0
+    [sesID] => 1
+)
+
+reqID: 11
+Query: SELECT * FROM request WHERE reqID = 11
+Fetched Data: Array
+(
+    [reqID] => 11
+    [trackNO] => JKL012
+    [recevNM] => Alice Brown
+    [recevRN] => 404
+    [recevCol] => Alpha
+    [reqPN] => 555-3456
+    [isDelivered] => 0
+    [sesID] => 7
+)
+
+reqID: 7
+Query: SELECT * FROM request WHERE reqID = 7
+Fetched Data: Array
+(
+    [reqID] => 7
+    [trackNO] => a123
+    [recevNM] => Danish
+    [recevRN] => 74
+    [recevCol] => Gamma
+    [reqPN] => +60 17-685 1843
+    [isDelivered] => 1
+    [sesID] => 1
+)
+
+reqID: 10
+Query: SELECT * FROM request WHERE reqID = 10
+Fetched Data: Array
+(
+    [reqID] => 10
+    [trackNO] => GHI789
+    [recevNM] => Bob Johnson
+    [recevRN] => 303
+    [recevCol] => Beta
+    [reqPN] => 555-9012
+    [isDelivered] => 0
+    [sesID] => 4
+)
+

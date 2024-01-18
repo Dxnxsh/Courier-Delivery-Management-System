@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_noStaffID" value="name:sesID;datatype:int,name:staffID;datatype:int,name:isComplete;datatype:int" />
+	<infoitem key="UD_freeSes" value="name:sesID;datatype:int,name:staffID;datatype:int,name:isComplete;datatype:int" />
+</info>

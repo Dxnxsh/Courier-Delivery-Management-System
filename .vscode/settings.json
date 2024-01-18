@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7afbe235-095b-42ad-87c0-5a0ab7da61ba/resourceGroups/csc264_group/providers/Microsoft.Web/sites/csc264",
+    "appService.deploySubpath": "."
+}
